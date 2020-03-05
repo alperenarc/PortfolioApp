@@ -22,7 +22,7 @@ function Projects() {
                             2019
                         </Typography>
                         <Typography variant="body2" component="p">
-                            This project has two stage. First stage is a content management system (Web - Admin Panel)thatnameisBeamity, andthesecondstageisaniOSapplication(ClientLayer) that name is Museum Hunt. Thanks the CMS, Customers who contacted Beacon can see many diﬀerent content that are always up to date. In short, this is a CMS with Beacon project. Project Github Link : <a className={classes.links} href=' https://github.com/alperenarc/Beamity'> https://github.com/alperenarc/Beamity </a> 
+                            This project has two stage. First stage is a content management system (Web - Admin Panel) that name is Beamity, and the second stage is an iOS application (ClientLayer) that name is Museum Hunt. Thanks the CMS, Customers who contacted Beacon can see many diﬀerent content that are always up to date. In short, this is a CMS with Beacon project. Project Github Link : <a className={classes.links} href=' https://github.com/alperenarc/Beamity'> https://github.com/alperenarc/Beamity </a> 
                         </Typography>
                     </Grid>
                     <br className={classes.br}/>
